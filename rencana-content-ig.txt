@@ -4,3 +4,4 @@ Rencana Konten Instagram
 - Membuat Project Clone Website Ternama dengan Vanila HTML dan CSS dengan Tailwind CSS
 - Javascript
   ^React
+  ^VueJS
